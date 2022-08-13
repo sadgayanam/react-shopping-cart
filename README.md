@@ -1,1 +1,1 @@
-#React-shopping-app
+#React-Shopping-Cart
